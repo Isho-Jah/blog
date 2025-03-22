@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Jalloh Ishmail
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Jalloh Ishmail
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Ishmail 
+last_name: Jalloh
 
 # Status emoji
 status:
@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Student of RUDN
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: RUDN
+    url: https://www.rudn.ru
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -48,14 +48,15 @@ profiles:
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
+  - Web and App development
+  - Cyber security
   - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Bsc Mathematics and Computer Science 
+    institution: People's Friendship University of Russia
+    date_start: 2024-09-01
+    date_end: 2028-08-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -183,4 +184,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jalloh Ishmail is Mathematics and Computer Science stuedent ad RUDN University. His research interests include data science, web development, networking, cyber security and software development. His research is personal, not professional, but it will become professional someday.

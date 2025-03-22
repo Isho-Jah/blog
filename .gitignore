@@ -1,0 +1,10 @@
+# IDEs 
+ .ides/
+ 
+ # Hugo
+ resources/
+ #pulic/
+ jsconfig.json
+ node_modules/
+ go.sum
+ .hugo-build.lock
