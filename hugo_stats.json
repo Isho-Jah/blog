@@ -602,7 +602,7 @@
       "TableOfContents",
       "about-me",
       "callouts",
-      "chart-953124867",
+      "chart-597683241",
       "charts",
       "code",
       "crowd-funded-open-source-software",
@@ -614,6 +614,8 @@
       "get-started",
       "hide-button",
       "highlighting",
+      "how-does-it-work",
+      "how-my-week-went",
       "ideation",
       "inline-images",
       "inspiration",
@@ -654,7 +656,8 @@
       "themes",
       "todo-lists",
       "top",
-      "video"
+      "video",
+      "what-is-version-control"
     ]
   }
 }
