@@ -60,27 +60,27 @@ education:
 
 work:
   - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
+    company_name: DataInsight Analytics
+    company_url: 'https://www.datainsight.com'
+    company_logo: '/logos/datainsight.png'  # Replace with actual logo path
     date_start: 2021-01-01
-    date_end: ''
+    date_end: '2022-04-03'
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Designed and scaled cloud infrastructure to handle large-scale data processing and analytics workloads  
+      - Implemented cost-optimized data pipelines for real-time and batch analytics (AWS Redshift, Snowflake)  
+      - Led migration from on-prem Hadoop clusters to cloud-native solutions (AWS/GCP), reducing costs by 35%  
   - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
+    company_name: CodeCraft Online
+    company_url: 'https://www.codecraft.io'
+    company_logo: '/logos/codecraft.png'  # Replace with actual logo path
+    date_start: 2019-01-01
     date_end: 2020-12-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Developed low-latency APIs (Node.js/Python) for an interactive online coding platform, serving 500K+ users  
+      - Optimized backend systems to support real-time code execution and collaboration (WebSockets, Docker)  
+      - Built automated testing infrastructure for user-submitted code, improving grading speed by 40%  
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -89,15 +89,15 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 75
         icon: code-bracket
       - name: Data Science
         description: ''
-        percent: 100
+        percent: 90
         icon: chart-bar
       - name: SQL
         description: ''
-        percent: 40
+        percent: 80
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
@@ -105,7 +105,7 @@ skills:
     items:
       - name: Hiking
         description: ''
-        percent: 60
+        percent: 90
         icon: person-simple-walk
       - name: Cats
         description: ''
@@ -119,8 +119,8 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
+  - name: French
+    percent: 50
   - name: Portuguese
     percent: 25
 
@@ -129,31 +129,34 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
+  - title: Advanced Machine Learning Specialist
+    url: https://www.coursera.org/professional-certificates/advanced-ml
+    date: 2023-09-15
     awarder: Coursera
     icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+      - Mastered production-grade ML pipelines using TensorFlow Extended (TFX)
+      - Deployed models at scale with Vertex AI
+      - Earned top 5% ranking in final capstone project
   - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
+    url: https://www.edx.org/professional-certificate/uc-berkeley-blockchain-fundamentals
+    date: 2023-07-01
+    awarder: edX (UC Berkeley)
     icon: edx
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
+      Key learnings:
+      - Designed blockchain solutions and understood Bitcoin mechanics.
+      - Explored Ethereum, smart contracts, and consensus algorithms.
+      - Analyzed real-world applications and security challenges.
+  - title: Cybersecurity Leadership
+    url: https://www.data.com/certifications
+    date: 2022-11-15
     awarder: datacamp
     icon: datacamp
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      - Certified Information Systems Security Professional
+      - 8 domains of cybersecurity mastery
+      - Recognized global standard for security leaders
 ---
 
 ## About Me
